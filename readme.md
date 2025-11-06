@@ -1,6 +1,6 @@
 # Sistem Manajemen Penjualan - Ayam Geprek Mas Ucok
 
-Proyek ini adalah aplikasi web sederhana yang dibangun menggunakan PHP native dan MySQL untuk mengelola dan mencatat penjualan di sebuah usaha kuliner.
+Proyek ini adalah aplikasi web sederhana yang dibangun menggunakan PHP native dan MySQL untuk mengelola dan mencatat penjualan di sebuah usaha kuliner ayam geprek.
 
 ## Fitur Utama
 
